@@ -79,10 +79,23 @@
 
 <h2 align="left">Activity</h2>
 
-> Total logged open-source coding . Updated every 1 hour.
+> Total logged open-source coding. Updated every 1 hour.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsannjafari&show_icons=true&locale=en&layout=compact" alt="ehsannjafari" /></p>
+<p>
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsannjafari&show_icons=true&locale=en&layout=compact&theme=github_dark" 
+       alt="ehsannjafari" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehsannjafari&show_icons=true&locale=en" alt="ehsannjafari" /></p>
+<p>&nbsp;
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=ehsannjafari&show_icons=true&locale=en&theme=github_dark" 
+       alt="ehsannjafari" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ehsannjafari&" alt="ehsannjafari" /></p>
+<p>
+  <img align="center" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=ehsannjafari&theme=github-dark" 
+       alt="ehsannjafari" />
+</p>
+s
