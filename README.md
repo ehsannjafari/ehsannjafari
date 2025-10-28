@@ -43,6 +43,12 @@
       </a>
       <br>PHP
     </td>
+     <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/mysql.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>MySQL
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/javascript.svg" width="48" height="48" alt="Jsonnet" />
@@ -67,12 +73,13 @@
       </a>
       <br>VueJS
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/mysql.svg" width="48" height="48" alt="HTML" />
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/tailwindcss.svg" width="48" height="48" alt="HTML" />
       </a>
-      <br>MySQL
+      <br>TailwindCSS
     </td>
+   
     
   </tr>
 </table>
