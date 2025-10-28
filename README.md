@@ -92,10 +92,3 @@
        src="https://github-readme-stats.vercel.app/api?username=ehsannjafari&show_icons=true&locale=en&theme=github_dark" 
        alt="ehsannjafari" />
 </p>
-
-<p>
-  <img align="center" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=ehsannjafari&theme=github-dark" 
-       alt="ehsannjafari" />
-</p>
-s
