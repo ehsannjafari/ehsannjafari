@@ -5,19 +5,12 @@
   </a>
 </h1>
 
-- 🔭 I’m currently working on [livewire-blog](https://github.com/ehsannjafari/livewire-blog)
-
 - 🌱 I’m currently learning **VueJs**
-
-- 👨‍💻 All of my projects are available at [https://ehsanjafari.com/project](https://ehsanjafari.com/project)
-
-- 📝 I regularly write articles on [https://ehsanjafari.com/blog](https://ehsanjafari.com/blog)
 
 - 💬 Ask me about **Laravel and Livewire**
 
 - 📫 How to reach me **ehs.jafari20@gmail.com**
 
-- 📄 Know about my experiences [https://ehsanjafari.com/experience](https://ehsanjafari.com/experience)
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
